@@ -1,3 +1,0 @@
-[console_scripts]
-bag_replay_tool_node = bag_replay_tool_ros2.bag_replay_tool_node:main
-

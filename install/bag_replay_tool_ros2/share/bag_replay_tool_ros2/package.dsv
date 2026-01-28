@@ -1,6 +1,0 @@
-source;share/bag_replay_tool_ros2/hook/pythonpath.ps1
-source;share/bag_replay_tool_ros2/hook/pythonpath.dsv
-source;share/bag_replay_tool_ros2/hook/pythonpath.sh
-source;share/bag_replay_tool_ros2/hook/ament_prefix_path.ps1
-source;share/bag_replay_tool_ros2/hook/ament_prefix_path.dsv
-source;share/bag_replay_tool_ros2/hook/ament_prefix_path.sh

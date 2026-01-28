@@ -1,4 +1,0 @@
-Invoking command in '/home/dss/ros2_ws/build/dss_ros2_bridge': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dss/ros2_ws/src/dss_ros2_bridge -DCMAKE_INSTALL_PREFIX=/home/dss/ros2_ws/install/dss_ros2_bridge
-Invoked command in '/home/dss/ros2_ws/build/dss_ros2_bridge' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dss/ros2_ws/src/dss_ros2_bridge -DCMAKE_INSTALL_PREFIX=/home/dss/ros2_ws/install/dss_ros2_bridge
-Invoking command in '/home/dss/ros2_ws/build/dss_ros2_bridge': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dss/ros2_ws/build/dss_ros2_bridge -- -j24 -l24
-Invoked command in '/home/dss/ros2_ws/build/dss_ros2_bridge' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dss/ros2_ws/build/dss_ros2_bridge -- -j24 -l24
