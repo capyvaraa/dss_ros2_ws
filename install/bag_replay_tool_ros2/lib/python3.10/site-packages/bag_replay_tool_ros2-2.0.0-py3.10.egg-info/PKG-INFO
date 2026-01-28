@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: bag-replay-tool-ros2
+Version: 2.0.0
+Summary: GUI tool for replaying ROS2 bag files with topic selection and playback control
+Home-page: UNKNOWN
+Maintainer: amap
+Maintainer-email: amap@todo.todo
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

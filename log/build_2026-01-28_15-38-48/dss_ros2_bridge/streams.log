@@ -1,0 +1,166 @@
+[0.004s] Invoking command in '/home/dss/ros2_ws/build/dss_ros2_bridge': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dss/ros2_ws/src/dss_ros2_bridge -DCMAKE_INSTALL_PREFIX=/home/dss/ros2_ws/install/dss_ros2_bridge
+[0.047s] -- The C compiler identification is GNU 11.4.0
+[0.161s] -- The CXX compiler identification is GNU 11.4.0
+[0.235s] -- Detecting C compiler ABI info
+[0.302s] -- Detecting C compiler ABI info - done
+[0.305s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.305s] -- Detecting C compile features
+[0.305s] -- Detecting C compile features - done
+[0.306s] -- Detecting CXX compiler ABI info
+[0.371s] -- Detecting CXX compiler ABI info - done
+[0.374s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.375s] -- Detecting CXX compile features
+[0.375s] -- Detecting CXX compile features - done
+[0.376s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.444s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.482s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[0.530s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.531s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.535s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.540s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.547s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.564s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.565s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.888s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.214s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.820s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.823s] -- Looking for pthread.h
+[1.873s] -- Looking for pthread.h - found
+[1.873s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.925s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.925s] -- Found Threads: TRUE  
+[1.948s] -- Found rclpy: 3.3.19 (/opt/ros/humble/share/rclpy/cmake)
+[1.949s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[1.968s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.976s] -- Found visualization_msgs: 4.9.0 (/opt/ros/humble/share/visualization_msgs/cmake)
+[1.987s] -- Found OpenCV: /usr (found version "4.5.4") 
+[2.041s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.164s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.304s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.357s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.390s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.391s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.485s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.485s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.485s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.485s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.495s] -- Found PythonExtra: .so  
+[2.526s] -- Configuring done
+[2.559s] -- Generating done
+[2.570s] -- Build files have been written to: /home/dss/ros2_ws/build/dss_ros2_bridge
+[2.576s] Invoked command in '/home/dss/ros2_ws/build/dss_ros2_bridge' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dss/ros2_ws/src/dss_ros2_bridge -DCMAKE_INSTALL_PREFIX=/home/dss/ros2_ws/install/dss_ros2_bridge
+[2.577s] Invoking command in '/home/dss/ros2_ws/build/dss_ros2_bridge': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dss/ros2_ws/build/dss_ros2_bridge -- -j24 -l24
+[2.595s] [  1%] Generating C code for ROS interfaces
+[2.600s] [  3%] Generating C++ code for ROS interfaces
+[2.603s] [  3%] Built target ament_cmake_python_copy_dss_ros2_bridge
+[2.705s] running egg_info
+[2.705s] creating dss_ros2_bridge.egg-info
+[2.705s] writing dss_ros2_bridge.egg-info/PKG-INFO
+[2.706s] writing dependency_links to dss_ros2_bridge.egg-info/dependency_links.txt
+[2.706s] writing top-level names to dss_ros2_bridge.egg-info/top_level.txt
+[2.706s] writing manifest file 'dss_ros2_bridge.egg-info/SOURCES.txt'
+[2.707s] reading manifest file 'dss_ros2_bridge.egg-info/SOURCES.txt'
+[2.707s] writing manifest file 'dss_ros2_bridge.egg-info/SOURCES.txt'
+[2.709s] [  3%] Built target dss_ros2_bridge__cpp
+[2.711s] [  5%] Building C object CMakeFiles/dss_ros2_bridge__rosidl_generator_c.dir/rosidl_generator_c/dss_ros2_bridge/msg/detail/dss_control__functions.c.o
+[2.714s] [  8%] Generating C++ type support for eProsima Fast-RTPS
+[2.714s] [  8%] Generating C++ type support dispatch for ROS interfaces
+[2.715s] [ 10%] Generating C++ introspection for ROS interfaces
+[2.721s] [ 10%] Built target ament_cmake_python_build_dss_ros2_bridge_egg
+[2.735s] [ 12%] Linking C shared library libdss_ros2_bridge__rosidl_generator_c.so
+[2.780s] [ 12%] Built target dss_ros2_bridge__rosidl_generator_c
+[2.785s] [ 17%] Generating C type support for eProsima Fast-RTPS
+[2.785s] [ 17%] Generating C type support dispatch for ROS interfaces
+[2.785s] [ 17%] Generating C introspection for ROS interfaces
+[2.815s] [ 19%] Building CXX object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/dss_ros2_bridge/msg/dss_control__type_support.cpp.o
+[2.822s] [ 21%] Building CXX object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/dss_ros2_bridge/msg/detail/dss_control__type_support.cpp.o
+[2.825s] [ 23%] Building CXX object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/dss_ros2_bridge/msg/detail/dds_fastrtps/dss_control__type_support.cpp.o
+[2.890s] [ 25%] Building CXX object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_c.dir/rosidl_typesupport_c/dss_ros2_bridge/msg/dss_control__type_support.cpp.o
+[2.899s] [ 26%] Building C object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/dss_ros2_bridge/msg/detail/dss_control__type_support.c.o
+[2.904s] [ 28%] Building CXX object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/dss_ros2_bridge/msg/detail/dss_control__type_support_c.cpp.o
+[2.904s] [ 30%] Linking CXX shared library libdss_ros2_bridge__rosidl_typesupport_c.so
+[2.915s] [ 32%] Linking C shared library libdss_ros2_bridge__rosidl_typesupport_introspection_c.so
+[2.938s] [ 33%] Linking CXX shared library libdss_ros2_bridge__rosidl_typesupport_cpp.so
+[2.945s] [ 33%] Built target dss_ros2_bridge__rosidl_typesupport_c
+[2.950s] [ 33%] Built target dss_ros2_bridge__rosidl_typesupport_introspection_c
+[2.977s] [ 33%] Built target dss_ros2_bridge__rosidl_typesupport_cpp
+[2.988s] [ 35%] Building CXX object CMakeFiles/DSSToROSPointCloudNode.dir/src/DSSToROSPointCloud.cpp.o
+[2.988s] [ 39%] Building CXX object CMakeFiles/DSSToROSImageNode.dir/src/DSSToROSImage.cpp.o
+[2.988s] [ 37%] Building CXX object CMakeFiles/DSSToROSImageNode.dir/src/dss.pb.cc.o
+[2.988s] [ 41%] Building CXX object CMakeFiles/DSSToROSPointCloudNode.dir/src/dss.pb.cc.o
+[2.990s] [ 42%] Building CXX object CMakeFiles/DSSToROSImageNode.dir/src/defaultGateway.cpp.o
+[2.990s] [ 44%] Building CXX object CMakeFiles/DSSToROSGpsNode.dir/src/defaultGateway.cpp.o
+[2.990s] [ 46%] Building CXX object CMakeFiles/DSSToROSIMUNode.dir/src/DSSToROSIMU.cpp.o
+[2.990s] [ 48%] Building CXX object CMakeFiles/DSSToROSClockNode.dir/src/defaultGateway.cpp.o
+[2.990s] [ 51%] Building CXX object CMakeFiles/DSSToROSClockNode.dir/src/DSSToROSClock.cpp.o
+[2.990s] [ 51%] Building CXX object CMakeFiles/DSSToROSClockNode.dir/src/dss.pb.cc.o
+[2.990s] [ 53%] Building CXX object CMakeFiles/DSSToROSGpsNode.dir/src/DSSToROSGps.cpp.o
+[2.990s] [ 55%] Building CXX object CMakeFiles/DSSToROSIMUNode.dir/src/dss.pb.cc.o
+[2.991s] [ 57%] Building CXX object CMakeFiles/DSSToROSPointCloudNode.dir/src/defaultGateway.cpp.o
+[2.991s] [ 58%] Building CXX object CMakeFiles/DSSToROSIMUNode.dir/src/defaultGateway.cpp.o
+[2.991s] [ 60%] Building CXX object CMakeFiles/DSSToROSGpsNode.dir/src/dss.pb.cc.o
+[2.992s] [ 62%] Building CXX object CMakeFiles/DSSDemoNode.dir/src/DSSDemo.cpp.o
+[2.993s] [ 64%] Building CXX object CMakeFiles/DSSDemoNode.dir/src/dss.pb.cc.o
+[2.993s] [ 66%] Building CXX object CMakeFiles/DSSDemoNode.dir/src/defaultGateway.cpp.o
+[2.993s] [ 67%] Building CXX object CMakeFiles/DSSDemoNode.dir/src/DSS.VSSClient.cpp.o
+[2.999s] [ 69%] Linking CXX shared library libdss_ros2_bridge__rosidl_typesupport_introspection_cpp.so
+[3.003s] [ 71%] Linking CXX shared library libdss_ros2_bridge__rosidl_typesupport_fastrtps_cpp.so
+[3.076s] [ 71%] Built target dss_ros2_bridge__rosidl_typesupport_introspection_cpp
+[3.087s] [ 73%] Linking CXX shared library libdss_ros2_bridge__rosidl_typesupport_fastrtps_c.so
+[3.106s] [ 73%] Built target dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp
+[3.198s] /home/dss/ros2_ws/src/dss_ros2_bridge/src/DSSToROSPointCloud.cpp:7:10: fatal error: nlohmann/json.hpp: No such file or directory
+[3.198s]     7 | #include "nlohmann/json.hpp"
+[3.198s]       |          ^~~~~~~~~~~~~~~~~~~
+[3.198s] compilation terminated.
+[3.202s] gmake[2]: *** [CMakeFiles/DSSToROSPointCloudNode.dir/build.make:76: CMakeFiles/DSSToROSPointCloudNode.dir/src/DSSToROSPointCloud.cpp.o] Error 1
+[3.202s] gmake[2]: *** Waiting for unfinished jobs....
+[3.204s] /home/dss/ros2_ws/src/dss_ros2_bridge/src/DSSToROSGps.cpp:10:10: fatal error: nlohmann/json.hpp: No such file or directory
+[3.204s]    10 | #include "nlohmann/json.hpp"
+[3.204s]       |          ^~~~~~~~~~~~~~~~~~~
+[3.204s] compilation terminated.
+[3.206s] /home/dss/ros2_ws/src/dss_ros2_bridge/src/DSSToROSClock.cpp:9:10: fatal error: nlohmann/json.hpp: No such file or directory
+[3.206s]     9 | #include "nlohmann/json.hpp"
+[3.206s]       |          ^~~~~~~~~~~~~~~~~~~
+[3.206s] compilation terminated.
+[3.208s] gmake[2]: *** [CMakeFiles/DSSToROSGpsNode.dir/build.make:76: CMakeFiles/DSSToROSGpsNode.dir/src/DSSToROSGps.cpp.o] Error 1
+[3.209s] gmake[2]: *** Waiting for unfinished jobs....
+[3.210s] gmake[2]: *** [CMakeFiles/DSSToROSClockNode.dir/build.make:76: CMakeFiles/DSSToROSClockNode.dir/src/DSSToROSClock.cpp.o] Error 1
+[3.210s] gmake[2]: *** Waiting for unfinished jobs....
+[3.211s] [ 73%] Built target dss_ros2_bridge__rosidl_typesupport_fastrtps_c
+[3.233s] [ 73%] Built target dss_ros2_bridge
+[3.249s] [ 75%] Generating Python code for ROS interfaces
+[3.288s] /home/dss/ros2_ws/src/dss_ros2_bridge/src/DSSToROSImage.cpp:7:10: fatal error: nlohmann/json.hpp: No such file or directory
+[3.288s]     7 | #include "nlohmann/json.hpp"
+[3.288s]       |          ^~~~~~~~~~~~~~~~~~~
+[3.289s] compilation terminated.
+[3.292s] gmake[2]: *** [CMakeFiles/DSSToROSImageNode.dir/build.make:76: CMakeFiles/DSSToROSImageNode.dir/src/DSSToROSImage.cpp.o] Error 1
+[3.292s] gmake[2]: *** Waiting for unfinished jobs....
+[3.308s] /home/dss/ros2_ws/src/dss_ros2_bridge/src/DSSToROSIMU.cpp:14:10: fatal error: nlohmann/json.hpp: No such file or directory
+[3.308s]    14 | #include "nlohmann/json.hpp"
+[3.308s]       |          ^~~~~~~~~~~~~~~~~~~
+[3.308s] compilation terminated.
+[3.312s] gmake[2]: *** [CMakeFiles/DSSToROSIMUNode.dir/build.make:76: CMakeFiles/DSSToROSIMUNode.dir/src/DSSToROSIMU.cpp.o] Error 1
+[3.312s] gmake[2]: *** Waiting for unfinished jobs....
+[3.466s] [ 75%] Built target dss_ros2_bridge__py
+[3.483s] [ 76%] Building C object CMakeFiles/dss_ros2_bridge__rosidl_generator_py.dir/rosidl_generator_py/dss_ros2_bridge/msg/_dss_control_s.c.o
+[3.540s] [ 78%] Linking C shared library rosidl_generator_py/dss_ros2_bridge/libdss_ros2_bridge__rosidl_generator_py.so
+[3.593s] [ 78%] Built target dss_ros2_bridge__rosidl_generator_py
+[3.605s] [ 80%] Building C object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/dss_ros2_bridge/_dss_ros2_bridge_s.ep.rosidl_typesupport_introspection_c.c.o
+[3.605s] [ 82%] Building C object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/dss_ros2_bridge/_dss_ros2_bridge_s.ep.rosidl_typesupport_c.c.o
+[3.608s] [ 83%] Building C object CMakeFiles/dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/dss_ros2_bridge/_dss_ros2_bridge_s.ep.rosidl_typesupport_fastrtps_c.c.o
+[3.647s] [ 87%] Linking C shared library rosidl_generator_py/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.647s] [ 87%] Linking C shared library rosidl_generator_py/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.662s] [ 89%] Linking C shared library rosidl_generator_py/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.685s] [ 89%] Built target dss_ros2_bridge__rosidl_typesupport_c__pyext
+[3.685s] [ 89%] Built target dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext
+[3.713s] [ 89%] Built target dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext
+[4.239s] gmake[1]: *** [CMakeFiles/Makefile2:657: CMakeFiles/DSSToROSIMUNode.dir/all] Error 2
+[4.240s] gmake[1]: *** Waiting for unfinished jobs....
+[4.255s] gmake[1]: *** [CMakeFiles/Makefile2:630: CMakeFiles/DSSToROSPointCloudNode.dir/all] Error 2
+[4.265s] gmake[1]: *** [CMakeFiles/Makefile2:711: CMakeFiles/DSSToROSGpsNode.dir/all] Error 2
+[4.266s] gmake[1]: *** [CMakeFiles/Makefile2:603: CMakeFiles/DSSToROSImageNode.dir/all] Error 2
+[4.273s] gmake[1]: *** [CMakeFiles/Makefile2:684: CMakeFiles/DSSToROSClockNode.dir/all] Error 2
+[9.595s] [ 91%] Linking CXX executable DSSDemoNode
+[10.089s] [ 91%] Built target DSSDemoNode
+[10.089s] gmake: *** [Makefile:146: all] Error 2
+[10.090s] Invoked command in '/home/dss/ros2_ws/build/dss_ros2_bridge' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dss/ros2_ws/build/dss_ros2_bridge -- -j24 -l24

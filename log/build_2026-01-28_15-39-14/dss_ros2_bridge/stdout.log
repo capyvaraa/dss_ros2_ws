@@ -1,0 +1,210 @@
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_generator_c
+[  1%] Built target dss_ros2_bridge__cpp
+[  7%] Built target dss_ros2_bridge__rosidl_generator_c
+[  7%] Built target ament_cmake_python_copy_dss_ros2_bridge
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_introspection_cpp
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_cpp
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_fastrtps_c
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_c
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_introspection_c
+[ 12%] Built target dss_ros2_bridge__rosidl_typesupport_fastrtps_cpp
+[ 17%] Built target dss_ros2_bridge__rosidl_typesupport_introspection_cpp
+[ 23%] Built target dss_ros2_bridge__rosidl_typesupport_fastrtps_c
+[ 28%] Built target dss_ros2_bridge__rosidl_typesupport_introspection_c
+[ 33%] Built target dss_ros2_bridge__rosidl_typesupport_cpp
+[ 39%] Built target dss_ros2_bridge__rosidl_typesupport_c
+Consolidate compiler generated dependencies of target DSSToROSImageNode
+Consolidate compiler generated dependencies of target DSSToROSPointCloudNode
+Consolidate compiler generated dependencies of target DSSToROSClockNode
+Consolidate compiler generated dependencies of target DSSToROSIMUNode
+Consolidate compiler generated dependencies of target DSSToROSGpsNode
+Consolidate compiler generated dependencies of target DSSDemoNode
+[ 42%] Building CXX object CMakeFiles/DSSToROSImageNode.dir/src/DSSToROSImage.cpp.o
+[ 42%] Building CXX object CMakeFiles/DSSToROSPointCloudNode.dir/src/DSSToROSPointCloud.cpp.o
+[ 44%] Building CXX object CMakeFiles/DSSToROSIMUNode.dir/src/DSSToROSIMU.cpp.o
+[ 46%] Building CXX object CMakeFiles/DSSToROSGpsNode.dir/src/DSSToROSGps.cpp.o
+[ 48%] Building CXX object CMakeFiles/DSSToROSClockNode.dir/src/DSSToROSClock.cpp.o
+[ 57%] Built target DSSDemoNode
+[ 57%] Built target dss_ros2_bridge
+[ 58%] Built target dss_ros2_bridge__py
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_generator_py
+[ 62%] Built target dss_ros2_bridge__rosidl_generator_py
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext
+Consolidate compiler generated dependencies of target dss_ros2_bridge__rosidl_typesupport_c__pyext
+[ 66%] Built target dss_ros2_bridge__rosidl_typesupport_introspection_c__pyext
+[ 69%] Built target dss_ros2_bridge__rosidl_typesupport_fastrtps_c__pyext
+[ 73%] Built target dss_ros2_bridge__rosidl_typesupport_c__pyext
+running egg_info
+writing dss_ros2_bridge.egg-info/PKG-INFO
+writing dependency_links to dss_ros2_bridge.egg-info/dependency_links.txt
+writing top-level names to dss_ros2_bridge.egg-info/top_level.txt
+reading manifest file 'dss_ros2_bridge.egg-info/SOURCES.txt'
+writing manifest file 'dss_ros2_bridge.egg-info/SOURCES.txt'
+[ 73%] Built target ament_cmake_python_build_dss_ros2_bridge_egg
+[ 75%] Linking CXX executable DSSToROSClockNode
+[ 76%] Linking CXX executable DSSToROSGpsNode
+[ 78%] Linking CXX executable DSSToROSPointCloudNode
+[ 82%] Built target DSSToROSClockNode
+[ 85%] Built target DSSToROSGpsNode
+[ 89%] Built target DSSToROSPointCloudNode
+[ 91%] Linking CXX executable DSSToROSImageNode
+[ 92%] Linking CXX executable DSSToROSIMUNode
+[ 96%] Built target DSSToROSIMUNode
+[100%] Built target DSSToROSImageNode
+-- Install configuration: ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/ament_index/resource_index/rosidl_interfaces/dss_ros2_bridge
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/dss_control.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/rosidl_generator_c__visibility_control.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__struct.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__functions.c
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__type_support.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__functions.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/library_path.sh
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/library_path.dsv
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_generator_c.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_generator_c.so" to ""
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_fastrtps_c.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_fastrtps_c.so" to ""
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__builder.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__type_support.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__struct.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__traits.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/dss_control.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dds_fastrtps
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_fastrtps_cpp.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__type_support.c
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__rosidl_typesupport_introspection_c.h
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_c.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__type_support.cpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/include/dss_ros2_bridge/dss_ros2_bridge/msg/detail/dss_control__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_typesupport_cpp.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/pythonpath.sh
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/pythonpath.dsv
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge-1.0.0-py3.10.egg-info
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge-1.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge-1.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge-1.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge-1.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/_dss_ros2_bridge_s.ep.rosidl_typesupport_introspection_c.c
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/_dss_ros2_bridge_s.ep.rosidl_typesupport_c.c
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/libdss_ros2_bridge__rosidl_generator_py.so
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/_dss_ros2_bridge_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/__init__.py
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg/_dss_control.py
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg/__init__.py
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg/_dss_control_s.c
+Listing '/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge'...
+Compiling '/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/__init__.py'...
+Listing '/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg'...
+Compiling '/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg/__init__.py'...
+Compiling '/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/msg/_dss_control.py'...
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/local/lib/python3.10/dist-packages/dss_ros2_bridge/dss_ros2_bridge_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_generator_py.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/libdss_ros2_bridge__rosidl_generator_py.so" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/msg/DssControl.idl
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/msg/DssControl.msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSImageNode
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSImageNode" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSClockNode
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSClockNode" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSPointCloudNode
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSPointCloudNode" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSIMUNode
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSIMUNode" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSGpsNode
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSToROSGpsNode" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSDemoNode
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/DSSDemoNode" to ""
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/libdss_ros2_bridge__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/dss/ros2_ws/install/dss_ros2_bridge/lib/dss_ros2_bridge/libdss_ros2_bridge__rosidl_typesupport_cpp.so" to ""
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/msg
+-- Up-to-date: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/msg/DssControl.msg
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/msg/DssControl.msg:Zone.Identifier
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/launch
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/launch/__pycache__
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/launch/__pycache__/launch.cpython-310.pyc
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/launch/__pycache__/launch.cpython-310.pyc:Zone.Identifier
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/launch/launch.py:Zone.Identifier
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/launch/launch.py
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/ament_index/resource_index/package_run_dependencies/dss_ros2_bridge
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/ament_index/resource_index/parent_prefix_path/dss_ros2_bridge
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/ament_prefix_path.sh
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/ament_prefix_path.dsv
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/path.sh
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/environment/path.dsv
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/local_setup.bash
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/local_setup.sh
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/local_setup.zsh
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/local_setup.dsv
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/package.dsv
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/ament_index/resource_index/packages/dss_ros2_bridge
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_generator_cExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_generator_cppExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_cExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridge__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_generator_pyExport.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/export_dss_ros2_bridge__rosidl_generator_pyExport-noconfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/rosidl_cmake-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridgeConfig.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/cmake/dss_ros2_bridgeConfig-version.cmake
+-- Installing: /home/dss/ros2_ws/install/dss_ros2_bridge/share/dss_ros2_bridge/package.xml
